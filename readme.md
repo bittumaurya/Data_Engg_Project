@@ -1,4 +1,4 @@
-# 🚖 Ride-Sharing Medallion Intelligence System
+# 🚖 Ride-Sharing Medallion Data Engineering Project
 **An End-to-End Data Engineering Pipeline using Databricks & dbt Cloud**
 
 ---
