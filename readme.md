@@ -12,7 +12,7 @@ This project implements a scalable **Medallion Architecture** (Bronze, Silver, G
 The pipeline automates the flow of data from ingestion to a "Gold" standard catalog using a mix of Spark Structured Streaming and dbt's modeling power.
 
 ![Architecture Flow](./Project_Screenshots/Architecture_Flow.png) 
-*(Note: Replace the filename above with your actual image name in that folder)*
+
 
 ---
 
